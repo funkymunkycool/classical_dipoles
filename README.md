@@ -11,4 +11,4 @@ Dipole moment of a migrating system of classical charges. Set up a system of par
 
 
 ## Dipole Moment Magnitude Along Trajectorys
-<img src="./dipole_magnitude.png" width=800 />
+<img src="./dipole_magnitudes.png" width=800 />
